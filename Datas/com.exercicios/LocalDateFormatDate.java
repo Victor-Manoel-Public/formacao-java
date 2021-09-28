@@ -3,7 +3,7 @@ package com.exercicios;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 
-public class DaysMonthsETC {
+public class LocalDateFormatDate {
     public static void main(String[] args) {
         // datas formatadas com LocalDate
         LocalDate lc = LocalDate.now();
