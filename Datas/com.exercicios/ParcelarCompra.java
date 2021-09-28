@@ -4,7 +4,7 @@ import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 
-public class LocalDatesWithLocalDate {
+public class ParcelarCompra {
 
     public static void main(String[] args) {
         LocalDate localDate = LocalDate.parse("2000-10-28");
