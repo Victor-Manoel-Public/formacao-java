@@ -13,6 +13,11 @@ import org.apache.poi.ss.usermodel.Row;
 
 public class ManipularAquivoXLS {
 	
+	
+	/*antes de usar, incluir os pacotes na lib:
+	APACHE POI.jar
+	COMMONS-MATH3-3-6.1.jar
+	AMBOS DO MAVEN*/
 	public static void main(String[] args) throws IOException {
 		
 		File arquivo = new File("./src/com/apache/poi/exercicios/arquivo_excel.xls");
